@@ -21,8 +21,6 @@ function App() {
         {/* <Tower position={[1, 1]} />
         <Tower position={[3, 1]} /> */}
 
-        <Tower position={[0, 0]} />
-
         <Level1>
           
         </Level1>
